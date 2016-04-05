@@ -1,6 +1,6 @@
 ## Make our work productive?
 
-## Intrpduction
+## Introduction
 
 This is a Android based native APP which allows you to track your work as well as any kind of tasks you should finish in a specific period of time.
 
