@@ -14,7 +14,7 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="app_name">ItemTouchHelper Demo</string>
+    <string name="app_name">ToDoList</string>
 
     <array name="main_items">
         <item>List - Basic Drag and Swipe</item>
