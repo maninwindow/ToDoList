@@ -1,5 +1,4 @@
 ## Make our work productive?
-[![Build Status](https://travis-ci.org/maninwindow/todolist.svg?branch=master)](https://travis-ci.org/maninwindow/todolist)
 
 ## Introduction
 
