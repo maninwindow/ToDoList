@@ -1,6 +1,4 @@
 ## Make our work productive?
-https://ci.appveyor.com/api/github/webhook?id=dri3b0vliy03ja39
-
 ## Introduction
 
 This is a Android based native APP which allows you to track your work as well as any kind of tasks you should finish in a specific period of time.
